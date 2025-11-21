@@ -1,0 +1,9 @@
+{
+    "nome": "Sistema de Processamento",
+    "versao": "1.3.2",
+    "parametros": {
+        "modo": "automatico",
+        "retries": 3,
+        "log": true
+    }
+}

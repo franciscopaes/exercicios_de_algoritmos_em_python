@@ -1,0 +1,4 @@
+Este é um arquivo de exemplo.
+Ele contém algumas linhas.
+Vamos contar quantas palavras existem aqui.
+E também quantas linhas.
